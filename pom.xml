@@ -27,28 +27,28 @@
 	</properties>
 	
 	<repositories>
-          <repository>
-          <id>springfeed</id>
-          <url>https://pkgs.dev.azure.com/Mounikamn456/a3bee587-09c8-45f9-b23d-62e455ba4f4d/_packaging/springfeed/maven/v1</url>
-          <releases>
-          <enabled>true</enabled>
-          </releases>
-          <snapshots>
-          <enabled>true</enabled>
-          </snapshots>
-          </repository>
+         <repository>
+            <id>Feed1</id>
+            <url>https://pkgs.dev.azure.com/ksiri52590452/Artifact/_packaging/Feed1/maven/v1</url>
+            <releases>
+            <enabled>true</enabled>
+            </releases>
+            <snapshots>
+            <enabled>true</enabled>
+            </snapshots>
+         </repository>
         </repositories>
 	<distributionManagement>
 	  <repository>
-          <id>springfeed</id>
-          <url>https://pkgs.dev.azure.com/Mounikamn456/a3bee587-09c8-45f9-b23d-62e455ba4f4d/_packaging/springfeed/maven/v1</url>
-          <releases>
-          <enabled>true</enabled>
-          </releases>
-          <snapshots>
-          <enabled>true</enabled>
-          </snapshots>
-          </repository>
+            <id>Feed1</id>
+            <url>https://pkgs.dev.azure.com/ksiri52590452/Artifact/_packaging/Feed1/maven/v1</url>
+            <releases>
+            <enabled>true</enabled>
+            </releases>
+            <snapshots>
+            <enabled>true</enabled>
+            </snapshots>
+         </repository>
         </distributionManagement>
 	
 
